@@ -1,12 +1,6 @@
-# Desenvolvimento Backend
+# Desenvolvimento Backend PUC
 
-Código final da aula 04 - Segurança e JWT
+Trabalho para Para reforçar o aprendizado, onde foi estendeido o servidor já visto na disciplina em aula.
 
-Nesta aula, vimos como integrar o Spring Security para adicionar autenticação JJWT
-
-## Modificações
-
-* Spring Security e JJWT adicionados ao `build.gradle.kts`
-* Veja o pacote `security` para entender o security filter e a security config
-* Anotações de segurança incluídas nos controllers
-* Verifique o método `updateUser` para autenticação avançada
+Aluno: Wellington Ruan da Silva
+Link: https://youtu.be/TCCstCJZXNE
